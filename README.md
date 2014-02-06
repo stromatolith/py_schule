@@ -9,6 +9,7 @@ teaching python in a simple and inspiring way so that kids
 - can connect knowledge from maths and physics with programming
 - understand the usefulness of numerical computation (more stupid work for the machine, and less headache for me)
 - get a feeling of how computers solve problems in our everyday life, e.g. how the physics gets into a computer game, or how a computer manages my library account
+
 Python is a very suitable way here, because it allows so concise, clean, and easily readable code.
 
 ####conceptual ideas
