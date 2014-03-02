@@ -227,12 +227,12 @@ much easier.
 a) When simulating physics, you have to think about numerics. Performance and
    realism have to be bought by paying with computation power and brains. For
    a computer game the simple and unrealistic physics model may be just as fun
-   and if simething diverges an artificial damping term may do the job. In
+   and if something diverges an artificial damping term may do the job. In
    science it is different.
 
 b) Standardisation makes switching easy, the example here are the Runge-Kutta
-   functions which have very different capabilities, but behave the same, seen
-   from the calling entity.
+   functions which have very different capabilities, but behave in the same
+   way, seen from the calling entity.
 
 c) Beside point (b) the rest of the code is rather a mess. One messy aspect: it
    is easy to take away the RK functions and use them somewhere else, but you
