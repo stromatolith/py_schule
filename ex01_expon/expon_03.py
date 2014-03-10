@@ -26,7 +26,7 @@ while True:
 
 
 """
-And here is an more interesting task for you:
+And here is a more interesting task for you:
 Find out the interest rate that will hit the 200 Euros with a precision of less
 than one cent?
 
@@ -36,13 +36,18 @@ approach A (do-it-yourself):
 
 approach B (algorithmic):
  - specify more rules for the computer to proceed
- - let it automatically do what you would have done
+   (use constructions with "if", "elif", "else", "for", "while")
+ - let it automatically do what you had done on the manual approach
+ - next, try out alternative sets of rules, i.e. write an alternative program
 
 Approach A will definitely be quicker and involve less headache. It is the
 quick and dirty solution. But should there be any subsequent questions, e.g.
 
  - What K triples the capital?
  - Which rate turns you into a millionaire within 20 years?
+ - What inflation rate turns the world's richest person into someone as poor
+   as you are now within three years?
+ - How about negative years?
 
 ... then the work you put into coming up with a nice algorithm will pay off!
 
