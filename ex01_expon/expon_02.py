@@ -2,7 +2,7 @@
 """
 Exponential growth is unintuitive. What is the annual interest rate that will
 double 100 Euros during 10 years? What rate will multiply it by 100? Without
-having ever looked atand remembering the results of such calculations one has
+having ever looked at and remembering the results of such calculations one has
 no chance of making good estimates.
 
 With a computer program you can try out several interest rates and see how
