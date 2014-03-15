@@ -106,7 +106,7 @@ class World(object):
 
     def blit_init(self):
         for thing in self.inhabitants:
-            thing.patch.center = 42., 0.
+            thing.patch.center = 42., 0. # plotting it somewhere far away so initial canvas is clean
         return [thing.patch for thing in self.inhabitants]
 
     def one_step(self,dummyarg):

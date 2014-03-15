@@ -200,7 +200,7 @@ def one_step_RK(dummyarg):
 
 #Init only required for blitting to give a clean slate.
 def init():
-    circ.center = 42., 0.
+    circ.center = 42., 0. # plotting it somewhere far away so initial canvas is clean
     track.set_xdata([])
     track.set_ydata([])
     return circ,track
