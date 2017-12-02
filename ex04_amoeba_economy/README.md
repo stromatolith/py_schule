@@ -1,11 +1,15 @@
-##amoeba life in more or less zen situations
+## amoeba life in more or less zen situations
 
 Some virtues of object-oriented programming should become pretty obvious when tinkering with these examples of simulations of interacting balls/marbles/amoebae/particles.
 
-####more goals
+#### more speed
+Nowadays there are lots of physics engines and physics simulation frameworks available. I didn't have time to try them out yet, but if you do, you will be able to generate much faster (and therefore much more fun) simulations.
+
+#### more goals
 Find stable regimes of evolving populations.
 - This may help understand some population-related aspects of the theory of evolution.
 - It may also help understand economics: think of the mushrooming balls as representing companies. Why does Europe have no Silicon Valley? Why did the US become deindustrialised? There is a balance to be found between game rules supporting the mushrooming of new entities and on the other hand the factors increasing the probability of longer-term existence. Well, macroeconomics on the international level is a bit more complicated, e.g. there are populations of companies with different internal rules (laws at home) competing globally, but why not try something like that also with the amoebae?
+- Egoism versus altruism: devise different worlds and species, scenarios where egoistic strategies win, scenarios where cooperative behaviour wins. (E.g. communicate food sources through the swarm, or plants communicating predator attacks via pheromones.)
 
 #### challenges
 - Take these examples as inspiration and invent new species and new rules deciding what happens upon amoebae encounters.
