@@ -28,9 +28,9 @@ Have fun!
 Python lernen auf eine einfache und inspirierende Art, die Schülern erlaubt,
 - zu lernen, dass Programmierwissen mir das Anpacken von Problemen und Projekten erlaubt, die mir sonst verschlossen blieben,
 - Wissen aus Mathe und Naturwissenschaften mit Programmierung zu vernetzen,
-- zu erahnen, wie nützlich es sein kann, dass der Computer sich nicht über monotone Arbeit beschwert (Stichwort: numerische Methoden)
-- den Blick dafür zu schärfen, wo und wie unser Alltag computerisiert ist
-- eine Ahnung davon zu erlangen, wie Physik in ein Computersiel kommt (Stichwort: numerische Simulation)
+- zu erahnen, wie nützlich es sein kann, dass der Computer sich nicht über monotone Arbeit beschwert (Stichwort: numerische Methoden),
+- den Blick dafür zu schärfen, wo und wie unser Alltag computerisiert ist,
+- eine Ahnung davon zu erlangen, wie Physik in ein Computersiel kommt (Stichwort: numerische Simulation).
 
 Warum die Sprache Python? Weil sie eine super Einsteigersprache ist, weil man sauberen, schnörkellosen, verständlichen Code produzieren kann. Und weil so viel effizienter, lesbarer und komfortabel nutzbarer Code schon existiert und frei verfügbar ist.
 
